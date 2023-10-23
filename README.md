@@ -16,7 +16,7 @@ Install [Burpsuite](https://portswigger.net/burp) according to official instruct
 
 ## Setup
 
-    git clone xxx
+    git clone https://github.com/olivesarenice/pg-scrape.git
 
 `pip install` the required libraries if you don't already have them:
 
